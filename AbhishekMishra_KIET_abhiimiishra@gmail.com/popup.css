@@ -1,0 +1,27 @@
+*{
+    margin: 10px;
+    padding: 0;
+    
+    color: #d1d5db;
+}
+body{
+   
+    width:500px;
+    height: max-content;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    
+}
+
+button{
+    
+    height: 50px;
+    width: 100%;
+    border-style: none;
+    border-radius: 5px;
+   font-size: 18px ;
+    color: #ffffff;
+    cursor:pointer;
+}
+
+
